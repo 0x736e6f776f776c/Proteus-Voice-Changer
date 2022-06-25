@@ -21,11 +21,6 @@ A program that gives the user the ability to change the pitch of an audio file t
 - Left side (Input file): click the 'Browse files' button, select the file of which you want to change the pitch. After selecting the file, you should be able to see the path to the directory on the left side of the Proteus image.
 - Right side (Modifier file): click the 'Browse files' buttom, select the file you want to extract the pitch from. After selecting the file, you should be able to see the path to the directory on the right side of the Proteus image.
 - You can now click on the Proteus image. You will be asked to choose where you want to save the output file. Once you've chosen a driectory, the Proteus algorithm wil apply the pitch of the modifier file to the contents of the input file and produce an ouput file in your destination folder. If all went well, you should receive a message confirming this. 
-
-
-
-**Project transferred to a new repository for privacy-related reasons, I originally made this project in 2018**
-
 The mimic modification process is now done.
 #### Manual mode
 - Use the button under the Proteus image to go into manual mode.
@@ -33,3 +28,6 @@ The mimic modification process is now done.
 - Right side (Set pitch): type the desired pitch in Hertz (Hz) in the textfield under 'Set pitch'. Press the 'Set pitch' button to set the pitch you have entered as the modification pitch. You'll see what it's currently set to on the right side of the Proteus image.
 - You can now click on the Proteus image. You will be asked to choose where you want to save the output file. Once you've chosen a driectory, the Proteus algorithm wil apply the pitch you've set to the contents of the input file and produce an ouput file in your destination folder. If all went well, you should receive a message confirming this. 
 The manual modification process is now done.
+
+
+**Project transferred to a new repository for privacy-related reasons, I originally made this project in 2018**

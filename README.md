@@ -30,4 +30,4 @@ The mimic modification process is now done.
 The manual modification process is now done.
 
 
-**Project transferred to a new repository for privacy-related reasons, I originally made this project in 2020**
+**Project transferred to a new repository for privacy-related reasons, I originally made this project in 2020** 
